@@ -1,4 +1,4 @@
-## 🔧 Requirements
+## Requirements
 
 - PHP >= 8.1
 - Composer
@@ -7,7 +7,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -42,7 +42,7 @@ DB_PASSWORD=your_password
 
 ---
 
-## 🗄️ Database Setup
+## Database Setup
 
 ### 1. Create Database
 
@@ -271,7 +271,7 @@ Query Params:
 
 ---
 
-## 🔒 Rate Limiting
+## Rate Limiting
 
 The endpoint is limited to **5 requests per minute** per IP address.
 
