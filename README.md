@@ -12,8 +12,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vehicle-expenses-api.git
-cd vehicle-expenses-api
+git clone https://github.com/Abdelrahmangemy/vehicle-expenses.git
+cd vehicle-expenses
 ```
 
 ### 2. Install Dependencies
@@ -107,7 +107,20 @@ GET /api/vehicle-expenses
     }
   ],
   "meta": {
-    "total": 2
+    "total": [
+            264826
+        ],
+        "per_page": [
+            10
+        ],
+        "current_page": [
+            1
+        ],
+        "last_page": [
+            26483
+        ],
+        "from": 1,
+        "to": 10
   }
 }
 ```
